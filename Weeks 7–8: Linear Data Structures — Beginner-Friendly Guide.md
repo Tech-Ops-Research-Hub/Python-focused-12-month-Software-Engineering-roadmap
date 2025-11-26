@@ -2,7 +2,7 @@
 
 **Goal:** Learn how to store and manage sequences of items in Python. Build a simple Task Scheduler to practice.
 
----
+--- 
 
 ## **1. Lists**
 
